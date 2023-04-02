@@ -55,13 +55,13 @@ global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada 
 /*============== NOMOR ==============*/
 global.nomorbot = '923242711784' //Nomor Bot
 global.nomorown = '923242711784' //Nomor Owner
-global.namebot = '𝒁𝑬𝑬𝑺𝑯𝑨𝑵-MD-v1' //Nama Bot
-global.nameown = '𝒁𝑬𝑬𝑺𝑯𝑨𝑵 𝑨𝒏𝒔𝒂𝒓𝒊🇵🇰' // Nama Owner
+global.namebot = 'SANUKA' //Nama Bot
+global.nameown = 'SANUKA' // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['923242711784', '𝒁𝑬𝑬𝑺𝑯𝑨𝑵 𝑨𝒏𝒔𝒂𝒓𝒊🎐', true] //Replace your number with your name
+  ['94718994254', 'SANUKA MAX', true] //Replace your number with your name
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
